@@ -1,3 +1,3 @@
 # www.developerdevelopment.com
 
-This is the GitHub repository for [Developer Development](http://developerdevelopment.com/).
+This is a repo forked from [Developer Development](http://developerdevelopment.com/) to contribute my blogs 
